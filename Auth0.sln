@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Login", "Login.njsproj", "{F2F4E7A2-BC0D-40C8-917D-FA5D438C82F9}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "UserProfile", "UserProfile.njsproj", "{DFD7F5F1-59B8-4037-835C-9B73806791EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F4E7A2-BC0D-40C8-917D-FA5D438C82F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F4E7A2-BC0D-40C8-917D-FA5D438C82F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F4E7A2-BC0D-40C8-917D-FA5D438C82F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F4E7A2-BC0D-40C8-917D-FA5D438C82F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD7F5F1-59B8-4037-835C-9B73806791EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD7F5F1-59B8-4037-835C-9B73806791EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD7F5F1-59B8-4037-835C-9B73806791EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD7F5F1-59B8-4037-835C-9B73806791EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6DD160-C90A-48D0-A5BD-62B79972AEE0}
+	EndGlobalSection
+EndGlobal
